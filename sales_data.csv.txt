@@ -1,0 +1,9 @@
+﻿Industry,Zone,Amount
+"""Software""",North-India,1200
+"""Services""",North-India,800
+"""Software""","South""-India",1500
+"""Services""","South""-India",700
+"""Software""","West""-India",2200
+"""Services""","West""-India",1300
+"""Software""",East-India,900
+"""Services""",East-India,600
